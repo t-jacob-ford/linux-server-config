@@ -15,11 +15,11 @@ http://18.221.222.59
 ## Summary of Installed Software
 | Package | README |
 | ------ | ------ |
-| Apache2 | [https://httpd.apache.org] [PlDb] |
-| libapache2-mod-wsgi | [https://packages.debian.org/wheezy/libapache2-mod-wsgi] [PlDb] |
-| python-flask | [http://flask.pocoo.org] [PlDb] |
-| postgresql | [https://www.postgresql.org/] [PlDb] |
-| postgresql-contrib | [] [PlDb] |
+| Apache2 | [https://httpd.apache.org] |
+| libapache2-mod-wsgi | [https://packages.debian.org/wheezy/libapache2-mod-wsgi] |
+| python-flask | [http://flask.pocoo.org] |
+| postgresql | [https://www.postgresql.org/] |
+| postgresql-contrib | [https://packages.debian.org/jessie/postgresql-contrib-9.4] |
 
 
 ## Summary of Configurations Made
